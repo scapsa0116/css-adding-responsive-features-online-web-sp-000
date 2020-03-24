@@ -32,7 +32,9 @@ width:auto;}
   margin-left: 0;
   float:none;}
   .border-right{border: 0;}
-  #details div {height:0;}
+  #details div {height:0;
+    padding-bottom:;
+  }
 }
 
 @media only screen and ( max-width: 700px) {
